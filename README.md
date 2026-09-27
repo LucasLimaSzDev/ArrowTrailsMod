@@ -57,8 +57,9 @@ The trail dynamically follows the arrow's movement, supports different arrow typ
 1. Install **Fabric Loader 1.20.1**.
 2. Install **Fabric API** for Minecraft 1.20.1.
 3. Download the desired Arrow Trail release.
-4. Place the `.jar` file inside your Minecraft `mods` folder.
-5. Launch Minecraft.
+4. Build the specific version on windows with gradle or download the already latest build
+5. Place the `.jar` file inside your Minecraft `mods` folder.
+6. Launch Minecraft.
 
 > 💡 No special configuration is required for the basic trail system.
 
