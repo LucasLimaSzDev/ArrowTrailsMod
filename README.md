@@ -74,6 +74,8 @@ The trail dynamically follows the arrow's movement, supports different arrow typ
 - Trail colors based on arrow effects.
 - Custom rendering replacing vanilla arrow particles.
 
+> 💡 Not tested in modded arrows, may cause imcopatibilities.
+
 ---
 
 ## 🛠️ Development
