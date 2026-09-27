@@ -1,7 +1,7 @@
 # 🏹 Arrow Trail
 
 <p align="center">
-  <img src="arrow-trail.png" alt="Arrow Trail" width="320">
+  <img src="arrow-trail.png" alt="Arrow Trail" width="180">
 </p>
 
 <p align="center">
