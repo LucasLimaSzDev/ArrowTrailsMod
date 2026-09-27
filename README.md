@@ -64,14 +64,6 @@ The trail dynamically follows the arrow's movement, supports different arrow typ
 
 ---
 
-## 🧪 Releases
-
-Each release represents a specific stage of Arrow Trail's development.
-
-### 🏹 v1.0 — Initial Release
-
-The first version introduces the core custom arrow trail system.
-
 **Highlights**
 
 - Basic custom arrow trails.
