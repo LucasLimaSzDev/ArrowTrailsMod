@@ -1,14 +1,13 @@
+🏹 Arrow Trail
 <p align="center">
-# 🏹 Arrow Trail
-<p align="center">
-  <b>A smooth, lightweight and customizable arrow trail system for Minecraft.</b><br>
+  <strong>A smooth, lightweight and customizable arrow trail system for Minecraft.</strong><br>
   Built for Fabric 1.20.1.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-1.20.1-5A8F29?style=for-the-badge&logo=minecraft&logoColor=white">
-  <img src="https://img.shields.io/badge/Loader-Fabric-CB2D6F?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Minecraft-1.20.1-5A8F29?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.20.1">
+  <img src="https://img.shields.io/badge/Loader-Fabric-CB2D6F?style=for-the-badge" alt="Fabric">
+  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17">
 </p>
 
 ✨ About
@@ -32,7 +31,7 @@ Requirements
 - Minecraft: 1.20.1
 - Mod Loader: Fabric
 - Java: 17
-- Fabric API: required
+- Fabric API: Required
 Steps
 1. Install Fabric Loader 1.20.1.
 2. Install Fabric API for Minecraft 1.20.1.
@@ -42,8 +41,8 @@ Steps
 💡 No special configuration is required for the basic trail system.
 
 🧪 Releases
-Each release represents a specific stage of the Arrow Trail development.
-v1.0 — Initial Release
+Each release represents a specific stage of Arrow Trail's development.
+🏹 v1.0 — Initial Release
 The first version introduces the core custom arrow trail system.
 Highlights
 - Basic custom arrow trails.
@@ -52,7 +51,7 @@ Highlights
 - Support for tipped arrows.
 - Trail colors based on arrow effects.
 - Custom rendering replacing vanilla arrow particles.
-v1.1 — Smooth Trail Update
+🌊 v1.1 — Smooth Trail Update
 Improves the movement and visual consistency of the original trail system.
 Highlights
 - Smoother trails during flight.
@@ -62,7 +61,7 @@ Highlights
 - Improved spectral-arrow visuals.
 - Rendering improvements.
 - More consistent suppression of vanilla arrow particles.
-v1.2 — Polished Trail System
+✨ v1.2 — Polished Trail System
 Introduces a dedicated tracking system for better control over each arrow's trail.
 Highlights
 - Dedicated arrow tracking system.
@@ -74,7 +73,7 @@ Highlights
 - Improved trail width handling.
 - Improved spectral-arrow differentiation.
 - Cleaner internal rendering architecture.
-v1.3 — Impact & Trail Lifecycle Update
+💥 v1.3 — Impact & Trail Lifecycle Update
 Focuses on correctly managing the entire lifecycle of a trail, especially when an arrow stops or impacts something.
 Highlights
 - Improved trajectory-end detection.
@@ -96,15 +95,15 @@ ArrowTrailsMod/
 ├── build.gradle
 ├── settings.gradle
 └── src/
-To build the project on Windows:
+Build on Windows:
 gradlew.bat build
 🧩 Design Philosophy
 Arrow Trail is designed around three principles:
-Smoothness
+🌊 Smoothness
 The trail should visually follow the arrow instead of looking like disconnected particles.
-Clean impact behavior
+💥 Clean Impact Behavior
 When an arrow reaches the end of its trajectory, the trail should retract and disappear rather than remain floating in the world.
-Low visual clutter
+🧹 Low Visual Clutter
 The effect should enhance arrows without covering the screen in vanilla particle effects.
 👤 Credits
 Arrow Trail
@@ -114,6 +113,6 @@ This project is not affiliated with or endorsed by Mojang Studios or Microsoft.
 📜 License
 See the license information included with the corresponding project release.
 <p align="center">
-  <b>🏹 Shoot farther. Look better.</b><br>
+  <strong>🏹 Shoot farther. Look better.</strong><br>
   <sub>Arrow Trail — Fabric 1.20.1</sub>
 </p>
