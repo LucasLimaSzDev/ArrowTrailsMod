@@ -1,4 +1,5 @@
-🏹 Arrow Trail
+<p align="center">
+# 🏹 Arrow Trail
 <p align="center">
   <b>A smooth, lightweight and customizable arrow trail system for Minecraft.</b><br>
   Built for Fabric 1.20.1.
