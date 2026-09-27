@@ -83,58 +83,6 @@ The first version introduces the core custom arrow trail system.
 
 ---
 
-### 🌊 v1.1 — Smooth Trail Update
-
-Improves the movement and visual consistency of the original trail system.
-
-**Highlights**
-
-- Smoother trails during flight.
-- Better tracking of arrow movement.
-- Improved behavior at different arrow speeds.
-- Adjusted trail width and length.
-- Improved spectral-arrow visuals.
-- Rendering improvements.
-- More consistent suppression of vanilla arrow particles.
-
----
-
-### ✨ v1.2 — Polished Trail System
-
-Introduces a dedicated tracking system for better control over each arrow's trail.
-
-**Highlights**
-
-- Dedicated arrow tracking system.
-- Controlled trail length.
-- Improved flight stability.
-- Smooth trail retraction when the trajectory ends.
-- Fade-out after impact.
-- Better handling of stopped or removed arrows.
-- Improved trail width handling.
-- Improved spectral-arrow differentiation.
-- Cleaner internal rendering architecture.
-
----
-
-### 💥 v1.3 — Impact & Trail Lifecycle Update
-
-Focuses on correctly managing the entire lifecycle of a trail, especially when an arrow stops or impacts something.
-
-**Highlights**
-
-- Improved trajectory-end detection.
-- Trails correctly finish when arrows stop.
-- Smooth retraction after impact.
-- Fade-out before complete removal.
-- Gradual trail-width reduction while disappearing.
-- Fixes for orphaned and duplicated trails.
-- Finished arrows no longer recreate their trails.
-- Improved handling of inactive arrows.
-- More stable overall trail management.
-
----
-
 ## 🛠️ Development
 
 Arrow Trail is built with **Java** and **Fabric** for **Minecraft 1.20.1**.
