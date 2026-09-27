@@ -150,8 +150,7 @@ ArrowTrailsMod/
 Build on Windows:
 
 ```bat
-You will need gradle 8.0 or above
-On CMD:
+On CMD (Administrator):
 > cd c:/yourbuild/example
 > gradlew.bat build
 Once built, go on build/libs and you will find the mod ready to play
