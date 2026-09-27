@@ -1,4 +1,3 @@
-<p align="center">
 # 🏹 Arrow Trail
 
 <p align="center">
